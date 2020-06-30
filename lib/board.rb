@@ -1,9 +1,9 @@
-row = [" ", " ", " ", ] 
+board = [" ", " ", " ", ] 
 
-row[0]
+board[0]
 
-row[1]
+board[1]
 
-row[2]
+board[2]
 
-row[1] = "X"
+board[1] = "X"
