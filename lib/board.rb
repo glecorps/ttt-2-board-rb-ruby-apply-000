@@ -1,5 +1,3 @@
-Array.new(9, str)
-
 board = [" ", " ", " ", ] 
 
 board[0]
